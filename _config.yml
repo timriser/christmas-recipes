@@ -27,8 +27,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: primer
-pygments: true
+theme: slate
+highlighter: true
 plugins:
   - jekyll-feed
 
